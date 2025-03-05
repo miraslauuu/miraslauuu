@@ -6,32 +6,16 @@ I'm a 6th-semester student at Lodz University of Technology, Faculty of Electron
 
 ## Tech Stack 🛠️
 
-### Programming Languages
-- ![C](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/c.svg) **C**
-- ![C++](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/cplusplus.svg) **C++**
-- ![Python](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/python.svg) **Python**
-- ![Swift](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/swift.svg) **Swift**
-- ![Java](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/java.svg) **Java**
-- ![C#](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/csharp.svg) **C#**
-- ![VBA](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/vba.svg) **VBA**
-
-### Databases
-- ![Oracle](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/oracle.svg) **Oracle**
-- ![MySQL](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/mysql.svg) **MySQL**
-- ![T-SQL](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/mssql.svg) **T-SQL**
-- ![PL SQL](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/plsql.svg) **PL SQL**
-
-### Web & Mobile & Frameworks
-- **HTML/CSS/JavaScript, Node.js, .NET** (No specific icons from the repository)
-
-### Visualization & Design
-- ![Tableau](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/tableau.svg) **Tableau**
-- ![Figma](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/figma.svg) **Figma**
-- ![CorelDraw](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/coreldraw.svg) **CorelDraw**
-- ![Microsoft Office](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/microsoftoffice.svg) **Packiet Microsoft**
-
-### Other Tools
-- Various libraries for data analysis and machine learning
+- **Programming Languages:**  
+  C, C++, Python 🐍, Java ☕, C#, VBA, T-SQL, PL SQL, Swift 🦋
+- **Databases:**  
+  Oracle, MySQL
+- **Web & Mobile:**  
+  HTML, CSS, JavaScript, Node.js, .NET
+- **Visualization & Design:**  
+  Tableau, Figma, CorelDraw, Microsoft Office Suite
+- **Other Tools:**  
+  Various libraries for data analysis and machine learning
 
 ---
 
@@ -64,10 +48,10 @@ I'm a 6th-semester student at Lodz University of Technology, Faculty of Electron
 ## Data Analysis Projects 📈
 
 ### Heart (Statlog) Project ❤️
-In this project, I developed a classification model to predict the presence of heart disease based on medical data from the Statlog (Heart) dataset. The dataset includes features such as age, gender, chest pain type, blood pressure, cholesterol levels, and more. I employed algorithms like Logistic Regression and Decision Tree, and conducted extensive exploratory data analysis with correlation plots, box plots, and heatmaps to identify the most significant factors influencing heart disease prediction.
+In this project, I developed a classification model to predict the presence of heart disease based on medical data from the Statlog (Heart) dataset. The dataset includes various features such as age, gender, chest pain type, blood pressure, cholesterol levels, and more. I employed algorithms like Logistic Regression and Decision Tree, and conducted extensive exploratory data analysis with correlation plots, box plots, and heatmaps to identify the most significant features influencing heart disease prediction.
 
 ### HIV/AIDS Epidemiological Analysis in Poland 🌍
-This project focused on analyzing HIV/AIDS data in Poland, with special emphasis on regional differences between voivodeships like Kujawsko-Pomorskie and Zachodniopomorskie. Through detailed statistical analysis and visualizations (including radar charts, maps, and trend analysis), I examined the dynamics of HIV/AIDS transmission and progression. The insights from this analysis help tailor targeted public health interventions and deepen our understanding of the epidemic's evolution.
+This project focused on analyzing HIV/AIDS data in Poland, with a special emphasis on regional differences between voivodeships like Kujawsko-Pomorskie and Zachodniopomorskie. Through detailed statistical analysis and visualizations (including radar charts, maps, and trend analysis), I examined the dynamics of HIV/AIDS transmission and progression. The insights gained from this analysis can help tailor targeted public health interventions and enhance our understanding of the epidemic's evolution.
 
 ---
 
