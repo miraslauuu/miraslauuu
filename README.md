@@ -27,9 +27,11 @@ I'm a 6th-semester student at Lodz University of Technology, Faculty of Electron
 - **CarRentalDB Project:**  
   Applied T-SQL to design and manage a relational database for a car rental service. This system handles detailed operational processes such as transaction tracking and scheduling. 🚗
 
+### Memory Allocation (malloc project) 💻
+- Implemented a custom memory allocator in C as part of an Operating Systems project. The allocator includes custom implementations of `malloc`, `calloc`, `realloc`, and `free`, along with utility functions for memory monitoring and defragmentation. The project focuses on efficient heap management and error detection using memory fences. 🔧
+
 ### Object-Oriented Programming 💻
 - Developed skills in **C++** and **Java** using object-oriented paradigms (classes, inheritance, encapsulation).  
-  In the "Warcaby" (Checkers) project in Java, I built the game logic, user interface, and piece movement mechanisms. 🎮
 
 ### Scripting & Data Analysis 📊
 - Proficient in **Python** and its libraries such as Matplotlib, OpenCV, and TensorFlow.  
