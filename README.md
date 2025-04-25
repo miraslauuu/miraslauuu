@@ -14,7 +14,7 @@ I'm a 6th-semester student at Lodz University of Technology, Faculty of Electron
   HTML, CSS, JavaScript, Node.js, .NET
 - **Visualization & Design:**  
   Tableau, Power BI, Figma, CorelDraw, Microsoft Office Suite
-- **CRM:**
+- **CRM:**<\br>
   Salesforce
 - **Other Tools:**  
   Various libraries for data analysis and machine learning
