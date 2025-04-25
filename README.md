@@ -13,7 +13,7 @@ I'm a 6th-semester student at Lodz University of Technology, Faculty of Electron
 - **Web & Mobile:**  
   HTML, CSS, JavaScript, Node.js, .NET
 - **Visualization & Design:**  
-  Tableau, Figma, CorelDraw, Microsoft Office Suite
+  Tableau, Power BI, Figma, CorelDraw, Microsoft Office Suite
 - **Other Tools:**  
   Various libraries for data analysis and machine learning
 
@@ -48,6 +48,13 @@ I'm a 6th-semester student at Lodz University of Technology, Faculty of Electron
 ---
 
 ## Data Analysis Projects 📈
+
+### Spiders Project 🕷️
+This project analyzes biomedical signals collected from individuals with arachnophobia while they watched spider videos.  
+The dataset includes ECG, GSR, and respiratory signals, which were carefully filtered, segmented, and processed.  
+Key features were extracted manually using techniques like Pan-Tompkins QRS detection for ECG and peak analysis for GSR and respiration.  
+A machine learning model was then trained to classify emotional states based on the extracted features.  
+The project served as a hands-on exercise in biomedical signal processing, feature engineering, and classification modeling.
 
 ### Heart (Statlog) Project ❤️
 In this project, I developed a classification model to predict the presence of heart disease based on medical data from the Statlog (Heart) dataset. The dataset includes various features such as age, gender, chest pain type, blood pressure, cholesterol levels, and more. I employed algorithms like Logistic Regression and Decision Tree, and conducted extensive exploratory data analysis with correlation plots, box plots, and heatmaps to identify the most significant features influencing heart disease prediction.
