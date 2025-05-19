@@ -13,7 +13,7 @@ I'm a 6th-semester student at Lodz University of Technology, Faculty of Electron
 - **Web & Mobile:**  
   HTML, CSS, JavaScript, Node.js, .NET
 - **Visualization & Design:**  
-  Tableau, Power BI, Figma, CorelDraw, Microsoft Office Suite
+  Tableau, Power BI, Figma, CorelDraw, Microsoft Office Suite, Blender
 - **CRM:**
   Salesforce
 - **Other Tools:**  
@@ -64,6 +64,12 @@ In this project, I developed a classification model to predict the presence of h
 ### HIV/AIDS Epidemiological Analysis in Poland 🌍
 This project focused on analyzing HIV/AIDS data in Poland, with a special emphasis on regional differences between voivodeships like Kujawsko-Pomorskie and Zachodniopomorskie. Through detailed statistical analysis and visualizations (including radar charts, maps, and trend analysis), I examined the dynamics of HIV/AIDS transmission and progression. The insights gained from this analysis can help tailor targeted public health interventions and enhance our understanding of the epidemic's evolution.
 
+### Hack na Zdrowie 🏥  
+Led a multidisciplinary team during the **Hack na Zdrowie** hackathon organized by **Biuro Karier UMED**. Together, we developed **PillGuards** — a smart pill dispenser for dementia patients combining intelligent hardware with a mobile app.  
+I was responsible for **project coordination**, **3D and AR modeling**, and the **application prototype**.  
+Our solution received a **special award**: a consultation voucher from **Consonance** for its technological and regulatory potential. 🏆  
+
 ---
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! ✉️
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas under this email - maximusrex2004@gmail.com! ✉️
+
