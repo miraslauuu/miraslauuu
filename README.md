@@ -7,17 +7,17 @@ I'm a 6th-semester student at Lodz University of Technology, Faculty of Electron
 ## Tech Stack 🛠️
 
 - **Programming Languages:**  
-  C, C++, Python 🐍, Java ☕, C#, VBA, T-SQL, PL SQL, Swift 🦋, Apex
-- **Databases:**  
-  Oracle, MySQL
+  Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R, VBA, C, C++, C#, Java, Swift, APEX
+- **Databases & Query Languages:**  
+  T-SQL, PL/SQL, PostgreSQL, MySQL, Oracle SQL Developer, SSMS
 - **Web & Mobile:**  
-  HTML, CSS, JavaScript, Node.js, .NET
+  .NET, Node.js, JavaScript, HTML, CSS
 - **Visualization & Design:**  
-  Tableau, Power BI, Figma, CorelDraw, Microsoft Office Suite, Blender
+  Figma, CorelDraw, Blender, 3ds Max
 - **CRM:**
   Salesforce
-- **Other Tools:**  
-  Various libraries for data analysis and machine learning
+- **Enterprise & Collaboration Tools:**  
+  Git, Jira, Scrum/Agile
 
 ---
 
