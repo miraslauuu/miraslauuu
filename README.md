@@ -1,6 +1,6 @@
 # Hi there, I'm Miraslau Alkhovik 👋
 
-I'm a 6th-semester student at Lodz University of Technology, Faculty of Electronics, Electrical Engineering, and Computer Science. My specialization is in Data Exploration and Analysis, and I'm passionate about building innovative solutions using a variety of technologies. 🚀
+I'm a 7th-semester student at Lodz University of Technology, Faculty of Electronics, Electrical Engineering, and Computer Science. My specialization is in Data Exploration and Analysis, and I'm passionate about building innovative solutions using a variety of technologies. 🚀
 
 ---
 
