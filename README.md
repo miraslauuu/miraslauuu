@@ -9,7 +9,8 @@ I'm a 7th-semester student at Lodz University of Technology, Faculty of Electron
 - **Programming Languages:**  
   Python (pandas, NumPy, scikit-learn, matplotlib, seaborn), R, VBA, C, C++, C#, Java, Swift, APEX
 - **Databases & Query Languages:**  
-  T-SQL, PL/SQL, PostgreSQL, MySQL, Oracle SQL Developer, SSMS
+  T-SQL, PL/SQL, PostgreSQL, MySQL, Oracle SQL Developer, SSMS, NoSQL (Redis, MongoDB, Cassandra, Graph Databases)
+  Big Data (Hadoop HDFS, Apache Spark, Spark ML)
 - **Web & Mobile:**  
   .NET, Node.js, JavaScript, HTML, CSS
 - **Visualization & Design:**  
